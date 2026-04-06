@@ -1,0 +1,8 @@
+print(chai.upper())
+# print(chai.lower())
+# print(chai.title()) 
+# print(chai.capitalize())
+# print(chai.replace("chai", "tea"))
+# print(chai.split())
+# print(chai.split()[0])
+# print(chai.find("chai"))
