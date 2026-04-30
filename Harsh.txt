@@ -1,7 +1,0 @@
-Python - Hitesh
-AI/ML - 
-Statistics -
-Fast API - 
-Pytorch-
-Tensor Flow -
-open CV
